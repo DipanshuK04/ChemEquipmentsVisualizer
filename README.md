@@ -110,6 +110,10 @@ http://127.0.0.1:8000
 ```
 POST /api/upload/
 ```
+#### Download PDF Report
+- **Method:** GET  
+- **Endpoint:** `/api/report/`  
+- **Description:** Returns a PDF report containing summary statistics and equipment type distribution for the most recently uploaded dataset.
 
 ### 2 Frontend (React)
 ```
