@@ -22,14 +22,14 @@ Both frontends (React Web and PyQt5 Desktop) consume the **same backend API endp
 - **Axios**
 - **Chart.js**
   
-![Web Frontend](./imagereact.jpg)
+![Web Frontend](imagereact.png)
 
 ### Frontend (Desktop)
 - **PyQt5**
 - **Matplotlib**
 - **Requests**
   
-![Desktop Frontend](./imagepyqt5.jpg)
+![Desktop Frontend](imagepyqt5.jpg)
 
 
 ---
