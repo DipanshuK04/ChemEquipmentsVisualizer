@@ -21,11 +21,15 @@ Both frontends (React Web and PyQt5 Desktop) consume the **same backend API endp
 - **React.js**
 - **Axios**
 - **Chart.js**
+  
+![Web Frontend](./imagereact.jpg)
 
 ### Frontend (Desktop)
 - **PyQt5**
 - **Matplotlib**
 - **Requests**
+  
+![Desktop Frontend](./imagepyqt5.jpg)
 
 
 ---
@@ -57,16 +61,18 @@ ChemEquipmentsVisualizer/
 -  **CSV Upload** (Web & Desktop)
 -  **Data Analytics** using Pandas
 -  **Visualization**
-  - Chart.js (Web)
-  - Matplotlib (Desktop)
+    - Chart.js (Web)
+    - Matplotlib (Desktop)
 -  **Summary Statistics**
-  - Total equipment count
-  - Average flowrate, pressure, temperature
-  - Equipment type distribution
+    - Total equipment count
+    - Average flowrate, pressure, temperature
+    - Equipment type distribution
+-  **PDF Generation**
+    - Download the statistics to user's local storage from common backend Api in the form of PDF 
 -  **History Management**
-  - Stores last 5 uploaded datasets
+    - Stores last 5 uploaded datasets
 -  **Shared Backend Pipeline**
-  - One API endpoint used by both clients
+    - One API endpoint used by both clients
 
 ---
 
