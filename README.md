@@ -29,7 +29,7 @@ Both frontends (React Web and PyQt5 Desktop) consume the **same backend API endp
 - **Matplotlib**
 - **Requests**
   
-![Desktop Frontend](imagepyqt5.jpg)
+![Desktop Frontend](imagepyqt5.png)
 
 
 ---
